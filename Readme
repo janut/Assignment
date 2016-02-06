@@ -1,0 +1,16 @@
+Things that need to be Corrected: 
+
+- If you ask for 10, it takes the first character. So, it will display as 1.  
+
+- Please only enter the rank that you find in your hand. 
+It doesn't check what you have entered is in your hand.
+
+
+Bugs
+- When a player contains more than one card of the same rank, it will remove one card. 
+Other times it will remove all the cards.
+
+- If a player has 4 cards of the same rank, it doesn't remove from the arraylist and increment the score.
+- scoring doesn't work properly
+
+- Sometimes exception error is thrown when player runs out of cards 
